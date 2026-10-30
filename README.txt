@@ -1,0 +1,1 @@
+Extract all eight ZIP files into the SAME GitHub Pages repository root. Preserve the articles/ folder. GitHub Pages: Settings > Pages > Deploy from a branch > main / (root). Each ZIP includes 100 articles; Part 1 includes shared site files. Footer disclaimer is present on all pages.
